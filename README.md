@@ -14,9 +14,10 @@ jogo_adivinhacao.py: Implementation of the Guessing Game.
 
 **🕹️ How to Play**
 Run the entrada-jogos.py file:
-bash
-Copiar
-Editar
+
+![img1](https://github.com/cipieroteds/introductionpython/blob/main/image.JPG)
+
+
 python entrada-jogos.py
 Choose the desired game by entering 1 for Hangman or 2 for Guessing Game.
 
